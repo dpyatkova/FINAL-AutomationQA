@@ -1,3 +1,3 @@
 int = 11
 String size = "Fluffy"
-System.out.print ("Привет,Fluffy")
+System.out.print ("Hello,Fluffy")
