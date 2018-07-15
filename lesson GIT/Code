@@ -1,2 +1,3 @@
 int size = 11;
 String name = "Fluffy";
+x = size-6;
