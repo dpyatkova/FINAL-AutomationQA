@@ -1,2 +1,2 @@
-int = 11
-String size = "Fluffy"
+int size = 11;
+String name = "Fluffy";
