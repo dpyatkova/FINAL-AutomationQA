@@ -50,6 +50,12 @@ public class Main {
 
             murka.attack();
             tom.defence();
+
+            tom.attack();
+            john.defence();
+
+            dog.attack();
+            murka.defence();
         }
 
     }
